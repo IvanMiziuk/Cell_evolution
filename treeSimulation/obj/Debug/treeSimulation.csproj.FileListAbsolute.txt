@@ -1,0 +1,10 @@
+D:\ProgectC#\TreeSimulation\treeSimulation\bin\Debug\treeSimulation.exe.config
+D:\ProgectC#\TreeSimulation\treeSimulation\bin\Debug\treeSimulation.exe
+D:\ProgectC#\TreeSimulation\treeSimulation\bin\Debug\treeSimulation.pdb
+D:\ProgectC#\TreeSimulation\treeSimulation\obj\Debug\treeSimulation.Form1.resources
+D:\ProgectC#\TreeSimulation\treeSimulation\obj\Debug\treeSimulation.Properties.Resources.resources
+D:\ProgectC#\TreeSimulation\treeSimulation\obj\Debug\treeSimulation.csproj.GenerateResource.cache
+D:\ProgectC#\TreeSimulation\treeSimulation\obj\Debug\treeSimulation.csproj.CoreCompileInputs.cache
+D:\ProgectC#\TreeSimulation\treeSimulation\obj\Debug\treeSimulation.exe
+D:\ProgectC#\TreeSimulation\treeSimulation\obj\Debug\treeSimulation.pdb
+D:\ProgectC#\TreeSimulation\treeSimulation\obj\Debug\treeSimulation.csproj.AssemblyReference.cache
